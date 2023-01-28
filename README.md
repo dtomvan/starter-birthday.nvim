@@ -12,7 +12,6 @@ A component (and fun Easter egg) for (for now only) [mini.starter](https://githu
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [API](#api)
 
 ## Features
 
