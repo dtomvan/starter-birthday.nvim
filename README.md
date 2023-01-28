@@ -1,6 +1,6 @@
 # :tada: starter-birthday.nvim
 
-A component (and fun easter egg) for (for now only) [mini.starter](https://github.com/echasnovski/mini.nvim/blob/main/README.md) to display a happy-birthday message when you have your birthday.
+A component (and fun Easter egg) for (for now only) [mini.starter](https://github.com/echasnovski/mini.nvim/blob/main/README.md) to display a happy-birthday message when you have your birthday.
 
 ![mini.starter + my plugin with the date and username configured in demo mode](./assets/screenshot.png)
 
@@ -105,7 +105,7 @@ The default values are:
 ---@type StarterBirthday.Config
 {
     ---- Required values. If you want to get up and running quickly, just set
-    ---- these and you're goof to go!
+    ---- these and you're good to go!
 
     -- If any key in `date` is `nil`, it will ask you to configure it
     date = {
