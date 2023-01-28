@@ -105,7 +105,7 @@ The default values are:
 ---@type StarterBirthday.Config
 {
     ---- Required values. If you want to get up and running quickly, just set
-    ---- these and you're goof to go!
+    ---- these and you're good to go!
 
     -- If any key in `date` is `nil`, it will ask you to configure it
     date = {
