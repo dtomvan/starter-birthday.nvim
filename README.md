@@ -172,6 +172,7 @@ The default values are:
             filetype = 'text',
             number = false,
             relativenumber = false,
+            cursorline = false,
         },
     },
 }
